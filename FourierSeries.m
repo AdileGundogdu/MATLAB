@@ -1,7 +1,7 @@
 clear all
 close all
 clc
-%Adile Gündoðdu 090150351
+
 
 %TASK-1
 
