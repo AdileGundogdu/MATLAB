@@ -1,5 +1,4 @@
-%Adile Gündoðdu - 090150351
-clear all;
+
 clc;
 syms x;
 f(x)=x^3-6*x^2+11*x-6.1;
