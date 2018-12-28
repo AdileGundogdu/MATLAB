@@ -34,7 +34,8 @@ for i=1:notasayisi
     elseif notes(i,1)==-1
         
         sound = 0*t;
-        
+       
+       
     end
      y=[y sound];
 end
