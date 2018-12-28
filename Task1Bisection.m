@@ -1,4 +1,4 @@
-%Adile Gündoğdu -090150351
+
 clear all;
 clc;
 syms x;
@@ -7,7 +7,7 @@ a=3;
 b=3.1;
 epsilon = 10^-6;
 if f(a)*f(b)>0 
-    disp('Kök yok be gardaş.. :(')
+    disp('KÃ¶k yok be gardaÃ¾.. :(')
 else
     p = (a + b)/2;
     err = abs(f(p));
