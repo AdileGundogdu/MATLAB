@@ -1,4 +1,4 @@
-%Adile Gündoðdu - 090150351
+
 clear all;
 clc;
 x=3:0.01:3.5;
