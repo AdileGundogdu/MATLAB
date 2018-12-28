@@ -1,6 +1,5 @@
-%Adile Gündoğdu 
-%090150351
-fs=8192; %Verdiğimiz fs sesin kalınlığını değiştirir ve süresini değiştirir.
+
+fs=8192; %VerdiÃ°imiz fs sesin kalÃ½nlÃ½Ã°Ã½nÃ½ deÃ°iÃ¾tirir ve sÃ¼resini deÃ°iÃ¾tirir.
 duration =.6;
 
 %task 1 Read the xlsx file
