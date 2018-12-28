@@ -1,5 +1,4 @@
-% Adile Gündoğdu
-% 090150351
+
 
 
 pic1=imread('peppers.png');
@@ -15,11 +14,11 @@ image(x);
 pos=get(f,'Position');
 x0p=pos(1);       %resmin xo
 yop=pos(2);       %resmin yo
-w=pos(3);         %resmin genişliği
-h=pos(4);         %resmin yüksekliği
+w=pos(3);         %resmin geniÃ¾liÃ°i
+h=pos(4);         %resmin yÃ¼ksekliÃ°i
 
-height=15;       %sliderin yüksekliği
-width=400;         %sliderin genişliği
+height=15;       %sliderin yÃ¼ksekliÃ°i
+width=400;         %sliderin geniÃ¾liÃ°i
 x0=w/2-width/2;           %sliderin xo
 y0=5;             %sliderin yo
 
