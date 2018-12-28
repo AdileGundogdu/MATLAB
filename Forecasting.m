@@ -1,5 +1,4 @@
-%Adile Gündoðdu 090150351
-%Labwork6
+
 clear all
 close all
 clc
@@ -24,7 +23,7 @@ legend('USD/TRY','first','second','third');
 textrap=1:(length(USD)+30);
 
 USDextraplin=plin.p1*t+plin.p2;
-guess1=USDextraplin(length(USDextraplin)) %30 gün sonraki dolarýn deðeri
+guess1=USDextraplin(length(USDextraplin)) %30 gÃ¼n sonraki dolarÃ½n deÃ°eri
 
 USDextrapquad=pquad.p1*(t.^2)+pquad.p2*t+pquad.p3;
 guess2=USDextrapquad(length(USDextrapquad))
